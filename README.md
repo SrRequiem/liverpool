@@ -10,7 +10,7 @@ Con éstas instrucciones podrás obtener una copia del proyecto para ejecutar en
 
 Se requiere tener node.js/npm instalado.
 
-### Installing
+### Instalación
 
 1. Clonar proyecto en ambiente local.
 2. `npm install` para dependencias.
