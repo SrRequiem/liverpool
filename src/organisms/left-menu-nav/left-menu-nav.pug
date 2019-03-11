@@ -1,0 +1,5 @@
+.left-menu-nav
+    include ../../molecules/left-menu-drop/left-menu-drop.pug
+    - var menuDrop = [{name: 'Departamentos', hasChilds: true},{name: 'Mesa de regalos'},{name: 'Mi crédito', hasChilds: true},{name: 'Seguros', hasChilds: true}]
+    each item in menuDrop
+        +left-menu-drop(item.name, item.hasChilds)

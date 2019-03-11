@@ -1,0 +1,7 @@
+mixin breadcrumb-item(name, hasChild=false)
+    .breadcrumb-item
+        if hasChild
+            span= name
+            i(class="fas fa-caret-right")
+        else
+            span(class="active")= name

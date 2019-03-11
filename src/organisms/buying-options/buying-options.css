@@ -1,0 +1,11 @@
+.buying-options {
+    width: 20%;
+    padding: 0 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+@import "../../molecules/estimated-delivery/estimated-delivery.css";
+@import "../../molecules/quantity/quantity.css";
+@import "../../molecules/group-products/group-products.css";
+@import "../../molecules/total-group/total-group.css";

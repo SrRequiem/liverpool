@@ -1,0 +1,9 @@
+.bag {
+    height: 80%;
+    width: 5%;
+    color: var(--pink);
+    background: url("/src/res/images/bag.jpg") no-repeat top;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

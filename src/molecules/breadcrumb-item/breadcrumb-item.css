@@ -1,0 +1,12 @@
+.breadcrumb-item {
+    width: 5%;
+    padding: 0 .2rem;
+    font-size: .6rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.active {
+    color: var(--pink);
+}

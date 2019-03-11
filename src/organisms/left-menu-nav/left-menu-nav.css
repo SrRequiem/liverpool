@@ -1,0 +1,10 @@
+.left-menu-nav {
+    height: 100%;
+    width: 50%;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+@import "../../molecules/left-menu-drop/left-menu-drop.css";

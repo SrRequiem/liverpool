@@ -1,0 +1,25 @@
+.right-menu-nav {
+    height: 100%;
+    width: 30%;
+    color: var(--dark-grey);
+    font-size: .8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.right-menu-item {
+    padding: 0 1rem;
+}
+
+.right-menu-item:hover {
+    color: var(--pink);
+}
+
+
+.middle {
+    border: 1px solid var(--dark-grey);
+    border-width: 0 1px;
+}
+

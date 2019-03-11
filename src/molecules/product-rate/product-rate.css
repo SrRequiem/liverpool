@@ -1,0 +1,10 @@
+.product-rate {
+    padding-bottom: 1rem;
+    font-size: 2rem;
+    display: flex;
+    width: 100%;
+}
+
+.product-rate i {
+    color: #fbb638;
+}

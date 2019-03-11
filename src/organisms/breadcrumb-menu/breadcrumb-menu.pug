@@ -1,0 +1,5 @@
+.breadcrumb-menu
+    include ../../molecules/breadcrumb-item/breadcrumb-item.pug
+    - var breadcrumbMenu = [{name: 'Home', hasChild: true},{name: 'Videojuegos', hasChild: true},{name: 'Consolas', hasChild: true},{name: 'XBOX'}]
+    each item in breadcrumbMenu
+        +breadcrumb-item(item.name, item.hasChild)

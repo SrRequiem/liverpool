@@ -1,0 +1,11 @@
+.previous-price {
+    color: var(--dark-grey);
+}
+
+.previous-price span {
+    text-decoration: line-through;
+}
+
+.previous-price sup {
+    text-decoration: line-through;
+}

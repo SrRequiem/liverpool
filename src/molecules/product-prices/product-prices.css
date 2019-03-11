@@ -1,0 +1,7 @@
+.product-prices {
+    display: flex;
+    flex-direction: column;
+}
+
+@import "../../atoms/previous-price/previous-price.css";
+@import "../../atoms/promo-price/promo-price.css";

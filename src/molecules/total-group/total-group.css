@@ -1,0 +1,15 @@
+.total-group {
+    font-size: .8rem;
+    padding: 1rem 0;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.total-group a {
+    padding: 1rem;
+    margin-left: 2rem;
+    color: white;
+    background-color: var(--pink);
+    text-align: center;
+}

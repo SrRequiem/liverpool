@@ -1,0 +1,10 @@
+.product-type {
+    font-size: .8rem;
+    color: var(--dark-grey);
+}
+
+.type {
+    padding: .5rem;
+    width: 10%;
+    border: solid 2px black;
+}

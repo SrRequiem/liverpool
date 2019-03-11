@@ -1,0 +1,12 @@
+.breadcrumb-menu {
+    background-color: var(--light-grey);
+    color: var(--dark-grey);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    height: 35px;
+}
+
+
+@import "../../molecules/breadcrumb-item/breadcrumb-item.css";

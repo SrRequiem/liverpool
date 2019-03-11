@@ -1,0 +1,5 @@
+.product-images
+    include ../../atoms/product-image/product-image.pug
+    - var srcImages = ["/src/res/images/1-image.jpg","/src/res/images/2-image.jpg","/src/res/images/3-image.jpg"]
+    each image in srcImages
+        +product-image(image)

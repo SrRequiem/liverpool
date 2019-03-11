@@ -1,0 +1,12 @@
+.menu-nav {
+    background-color: var(--light-grey);
+    border-bottom: solid 1px var(--dark-grey);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 65px;
+}
+
+@import "../../organisms/left-menu-nav/left-menu-nav.css";
+@import "../../organisms/right-menu-nav/right-menu-nav.css";

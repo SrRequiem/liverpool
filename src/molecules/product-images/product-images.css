@@ -1,0 +1,8 @@
+.product-images {
+    width: 63px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+@import "../../atoms/product-image/product-image.css";

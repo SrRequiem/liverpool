@@ -1,0 +1,14 @@
+.product {
+    height: calc(100vh - 166px - 2rem);
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+@import "../../molecules/product-images/product-images.css";
+@import "../../atoms/single-image/single-image.css";
+@import "../../organisms/product-details/product-details.css";
+@import "../../organisms/buying-options/buying-options.css";
