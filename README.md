@@ -21,4 +21,4 @@ Se requiere tener node.js/npm instalado.
 
 ## Autor
 
-* **Arturo Román Zuleta Tovar** - *Fullstack Developer* - [SrRequiem](https://github.com/SrRequiem)
+* **Arturo Román Zuleta Tovar** - *Fullstack Developer* - [SrRequiem](https://github.com/SrRequiem) - [rzul.me](https://www.rzul.me/)
