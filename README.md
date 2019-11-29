@@ -1,4 +1,4 @@
-# Exámen práctico Liverpool - Arturo Román Zuleta Tovar
+# Exámen práctico Liverpool - Román Zuleta
 
 Código fuente de exámen práctico para vacante en corporativo Liverpool.
 
@@ -21,4 +21,4 @@ Se requiere tener node.js/npm instalado.
 
 ## Autor
 
-* **Arturo Román Zuleta Tovar** - *Fullstack Developer* - [SrRequiem](https://github.com/SrRequiem) - [rzul.me](https://www.rzul.me/)
+* **Román Zuleta** - *Fullstack Developer* - [SrRequiem](https://github.com/SrRequiem) - [rzul.me](https://www.rzul.me/)
